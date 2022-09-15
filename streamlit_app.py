@@ -1,4 +1,3 @@
-You 07-09-2022 10:39 • avnagi paka avn bere eno heltane
 
 import streamlit
 
