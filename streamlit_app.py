@@ -19,6 +19,7 @@ my_fruit_list = my_fruit_list.set_index('Fruit')
 
 requirements.txt
 
+
 #import snowflake.connector
 
 #my_cnx = snowflake.connector.connect(**streamlit.secrets["snowflake"])
